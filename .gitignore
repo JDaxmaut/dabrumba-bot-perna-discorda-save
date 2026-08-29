@@ -1,0 +1,9 @@
+config.json
+done.json
+run_out.log
+run_err.log
+tracked/
+__pycache__/
+*.pyc
+.venv/
+venv/
