@@ -1,4 +1,4 @@
-# Discord Folder Uploader Bot porna vidosa ugabuga child po from kung fu panda
+# Discord papka uplodere BOT SKYNET VAGUE porna vidosa ugabuga child po from kung fu panda
 
 Бот для Discord: следит за папкой на пк, при появлении новой папки внутри создает канал с её именем (категорию выбираешь сам) и заливает туда все файлы.
 
