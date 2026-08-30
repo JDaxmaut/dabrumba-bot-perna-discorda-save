@@ -14,7 +14,7 @@ bot = commands.Bot(command_prefix="!", intents=intents, help_command=None)
 
 active_prompts = {}
 
-
+#NO SKIBIDI HERE DOP
 def load_config(path):
     with open(path, "r", encoding="utf-8") as f:
         text = f.read()
