@@ -1,5 +1,5 @@
 {
-  // токен бота из Discord Developer Portal
+  // токен бота из Discord Developer Portal 
   "token": "СЮДА_ТОКЕН",
   // ID сервера (ПКМ по серверу -> скопировать ID)
   "guild_id": 123456789012345678,
